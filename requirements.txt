@@ -1,0 +1,29 @@
+# Core
+streamlit==1.49.1
+torch>=1.12
+torchvision>=0.13
+Pillow>=9.0
+numpy
+pandas
+requests
+tqdm
+transformers>=4.30
+
+# Streamlit dependencies
+altair>=5.4.0
+blinker>=1.6
+cachetools>=5.3
+click>=8.0
+gitpython>=3.1.19
+packaging>=23.0
+pyarrow>=7.0.0
+pydantic>=2.0.0
+tenacity>=8.1.0
+toml>=0.10.2
+tornado>=6.0.3
+watchdog>=2.1.5
+
+# Google/Protobuf
+protobuf>=4.24.0
+google>=3.0.0
+googleapis-common-protos>=1.60.0
